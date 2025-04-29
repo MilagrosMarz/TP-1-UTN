@@ -5,14 +5,13 @@
     font-size: 24px;
     font-family: "Space Grotesk", sans-serif;
     padding: 2%;
-    margin:auto
+    margin:auto;
 
 
     position: relative;
-    display: -ms-flexbox;
     display: flex;
 
-    -ms-flex-direction: row;
+    -ms-flex-direction: row; 
     justify-content: center;
     flex-direction: column;
     min-width: 0;
