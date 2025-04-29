@@ -1,0 +1,68 @@
+.card{
+    box-sizing:content-box; 
+    line-height: 78%;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Space Grotesk", sans-serif;
+    padding: 2%;
+    margin:auto
+
+
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+
+    -ms-flex-direction: row;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color:  ;
+    border: 1px solid rgb(33, 33, 116);
+    border-radius: .25rem;
+    background-image: url();
+
+}
+main{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+h3 {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(70, 100, 180);
+    font-size: 14px;
+}
+
+h2{
+    font-size: 24px;
+    display: inline-block;
+    color: rgb(70, 130, 180);
+}
+p{
+    font-size: 18px;
+    display: inline-block;
+    color: rgb(116, 116, 116);
+}
+.a{
+    color: rgb(6, 42, 73);
+}
+header{
+    line-height: 1em;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Space Grotesk", sans-serif;
+    color: rgb(70, 130, 180);
+    padding: 2%;
+}
+footer{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 14px;
+    color: rgb(116, 116, 116);
+    text-align: center;
+    padding: 2%;
+    margin: 1%;
+}
