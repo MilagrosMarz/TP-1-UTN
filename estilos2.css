@@ -21,7 +21,7 @@
     font-size: 20px;
     font-family: "Space Grotesk", sans-serif;
     color: rgb(96, 150, 204);
-    border-bottom: 2px solid rgb(83, 83, 83);
+    border-bottom: 2px solid rgb(122, 122, 122);
     line-height: 1.35em;
     }
 .navbar {
@@ -47,6 +47,7 @@ ul {
     font-family: "Space Grotesk", sans-serif;
     color: rgb(83, 83, 83);  
     text-decoration: none;
+    
 }
 .hero{
     background-image: url(assets/portada.avif);
