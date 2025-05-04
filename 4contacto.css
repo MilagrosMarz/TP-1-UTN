@@ -19,7 +19,11 @@ h2 {
     flex-direction: column;
     align-items: flex-start;
     height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
+
 .form-answer {
     font-size: 16px;
     font-family: "Space Grotesk", sans-serif;

@@ -27,7 +27,7 @@ img {
     flex-wrap: wrap;
     gap: 15px;
     padding: 10px;
-    position: relative;
+    position: relativabe;
     margin-bottom: 80px;
     flex-direction: row;
     justify-content: space-evenly;
