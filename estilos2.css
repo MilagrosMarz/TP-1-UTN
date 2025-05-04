@@ -46,8 +46,7 @@ ul {
     font-size: 16px;
     font-family: "Space Grotesk", sans-serif;
     color: rgb(83, 83, 83);  
-    text-decoration: none;
-    
+    text-decoration: none;  
 }
 .hero{
     background-image: url(assets/portada.avif);

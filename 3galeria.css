@@ -4,17 +4,12 @@ main{
 }
 
 img {
-    width: 20%; 
-    height: auto; 
+    width: 24%; 
+    height: 40%; 
     display: flex; 
     padding: 1%;
-    border-radius: 8px; 
-}
-h2 {
-    font-size: 20px;
-    font-family: "Space Grotesk", sans-serif;
-    color: rgb(255, 255, 255);   
-    text-align: center; 
+    border-radius: 8px;
+
 }
 
 .titulo-seccion {
@@ -26,4 +21,15 @@ h2 {
     display: flex;
     justify-content: center;
     margin: 0%;
+}
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 10px;
+    position: relative;
+    margin-bottom: 80px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
